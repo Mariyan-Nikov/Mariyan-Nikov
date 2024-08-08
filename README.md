@@ -42,10 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mariyan-nikov/mariyan-nikov/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/mariyan-nikov/count.svg?"  />
 </div>
