@@ -1,21 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mariyan</h1>
-🎓 About Me:
-I'm a student at Software University with a passion for coding and creating innovative solutions. With 1 year of coding experience, I’ve explored various languages and technologies, including C#, HTML, CSS, JavaScript, and SQL. I’m dedicated to continuous learning and improvement, always striving to stay at the forefront of technology.
 
-💻 Current Role:
-As a full-time FiveM developer, I utilize my skills in C# and JavaScript to craft immersive experiences within the gaming community. From designing robust server-side logic and dynamic user interfaces to optimizing database queries, I’m committed to delivering high-quality solutions that enhance the gaming experience.
+🎓 A student at Software University passionate about coding and creating innovative solutions. With 1 year of coding experience under my belt, I've dabbled in various languages and technologies, honing my skills to become proficient in C#, HTML, CSS, JavaScript, and SQL.
 
-🌟 Beyond Game Development:
-My expertise extends to web technologies. I’m proficient in frontend frameworks like React and backend frameworks like Node.js. Whether it’s building responsive web applications or designing elegant user interfaces, I’m enthusiastic about exploring new technologies and pushing the boundaries of what’s possible.
+💻 Currently, I'm a full-time FiveM developer, where I leverage my expertise in C# and JavaScript to craft immersive experiences within the gaming community. Whether it's designing robust server-side logic, implementing dynamic user interfaces, or optimizing database queries, I'm committed to delivering high-quality solutions that elevate the gaming experience.
 
-🚀 Outside Coding:
-When I’m not coding, you can find me exploring the latest tech trends, gaming with friends, or diving into a good book. I believe in the power of collaboration and open-source contributions, so feel free to connect with me for collaborations or just to chat about tech!
+🌟 My journey in software development extends beyond game development. I'm well-versed in web technologies, including frontend frameworks like React and backend frameworks like Node.js. From building responsive web applications to designing elegant user interfaces, I'm always eager to explore new technologies and push the boundaries of what's possible.
 
-📫 Let’s Connect:
-Feel free to drop me a message here on GitHub to discuss projects, share ideas, or simply talk about code.
+🚀 Outside of coding, you can find me exploring the latest tech trends, gaming with friends, or diving into a good book. I believe in the power of collaboration and open-source, so feel free to reach out for collaborations or just to say hi!
 
-Happy coding! 💻✨
-
+📫 Let's connect! Feel free to drop me a message here on GitHub to discuss projects, share ideas, or simply talk about code.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariyan-nikov" alt="mariyan-nikov" /></a> </p>
 
