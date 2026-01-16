@@ -29,6 +29,7 @@ With **1+ year of hands-on experience**, I’ve worked across multiple technolog
 
 ## 🛠️ Tech Stack
 
+### Languages & Frameworks
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40"/>
@@ -36,6 +37,13 @@ With **1+ year of hands-on experience**, I’ve worked across multiple technolog
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" height="40"/>
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40"/>
 </p>
 
 ---
