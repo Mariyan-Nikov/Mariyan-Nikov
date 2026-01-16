@@ -16,14 +16,9 @@ With **1+ year of hands-on experience**, I’ve worked across multiple technolog
 - Optimize database performance
 - Deliver immersive multiplayer experiences
 
-🌐 Beyond game development, I enjoy web development, working with:
-- **React** for modern frontends
-- **Node.js** for backend services
-- Clean, responsive UI/UX design
+🌐 Beyond game development, I enjoy web development with **React**, **Node.js**, and modern UI/UX practices.
 
-🚀 Always learning, always building, always improving.
-
-📫 Open to collaborations, ideas, and cool projects!
+📫 Open to collaborations and interesting projects!
 
 ---
 
@@ -48,19 +43,10 @@ With **1+ year of hands-on experience**, I’ve worked across multiple technolog
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mariyan-nikov&show_icons=true&theme=dracula&count_private=true&cache_seconds=86400"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariyan-nikov&layout=compact&theme=dracula&cache_seconds=86400"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
-- 💬 Open to collaborations
-- 🎮 FiveM & game development
+- 🎮 FiveM development
 - 🌐 Web & backend projects
+- 💬 Open to collaboration
 
-⭐ If you like my work, consider starring a repository!
+⭐ If you like my work, consider starring a repo!
